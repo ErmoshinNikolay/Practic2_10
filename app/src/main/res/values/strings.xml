@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Practica 2_10</string>
+    <string name="model">Модель</string>
+    <string name="serial_number">Серийный номер</string>
+    <string name="price">Цена</string>
+    <string name="add">Добавить</string>
+    <string name="next">Продолжить</string>
+    <string name="incorrect_value">Вы ввели некорректное значение</string>
+    <string name="inser_error">При добавлении произошла ошибка</string>
+    <string name="insert_success">Запись успешно добавлена</string>
+</resources>
